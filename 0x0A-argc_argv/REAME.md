@@ -1,1 +1,1 @@
-Arguments in Funcions In C
+argc and argv in C
