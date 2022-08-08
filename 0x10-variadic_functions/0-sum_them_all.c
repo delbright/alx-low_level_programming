@@ -5,7 +5,6 @@
  *@n: number of given arguments.
  *Return: their sum.
  */
- 
 int sum_them_all(const unsigned int n, ...)
 {
 va_list valist;
